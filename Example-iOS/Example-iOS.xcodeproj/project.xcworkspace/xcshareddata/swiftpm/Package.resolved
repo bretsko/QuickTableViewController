@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "QuickTableViewController",
+        "repositoryURL": "https://github.com/bretsko/QuickTableViewController",
+        "state": {
+          "branch": null,
+          "revision": "8af65c2b3a3f03fb0b1f07f57d6e54c87251dd20",
+          "version": "1.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
