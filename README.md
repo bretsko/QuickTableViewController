@@ -1,8 +1,4 @@
 # QuickTableViewController
-
-[![Build Status](https://travis-ci.org/bcylin/QuickTableViewController.svg?branch=master)](https://travis-ci.org/bcylin/QuickTableViewController)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/QuickTableViewController.svg)](https://cocoapods.org/pods/QuickTableViewController)
 ![Platform](https://img.shields.io/cocoapods/p/QuickTableViewController.svg)
 [![codecov](https://codecov.io/gh/bcylin/QuickTableViewController/branch/master/graph/badge.svg)](https://codecov.io/gh/bcylin/QuickTableViewController)
 ![Swift 5](https://img.shields.io/badge/Swift-5-orange.svg)
@@ -235,55 +231,10 @@ QuickTableViewController is not designed for inserting and deleting rows. It doe
 ## Documentation
 
 * [QuickTableViewController Reference](https://bcylin.github.io/QuickTableViewController)
-* [Example Project](https://github.com/bcylin/QuickTableViewController/tree/develop/Example)
-
-## Requirements
-
-QuickTableViewController | iOS  | tvOS | Xcode | Swift
------------------------- | :--: | :--: | :---: | :---:
-`~> 0.1.0`               | 8.0+ | -    | 6.4   | 1.2
-`~> 0.2.0`               | 8.0+ | -    | 7.0   | 2.0
-`~> 0.3.0`               | 8.0+ | -    | 7.3   | 2.2
-`~> 0.4.0`               | 8.0+ | -    | 8.0   | 2.3
-`~> 0.5.0`               | 8.0+ | -    | 8.0   | 3.0
-`~> 0.6.0`               | 8.0+ | -    | 8.3   | 3.1
-`~> 0.7.0`               | 8.0+ | -    | 9.0   | 3.2
-`~> 0.8.0`               | 8.0+ | -    | 9.1   | 4.0
-`~> 0.9.0`               | 8.0+ | -    | 9.3   | 4.1
-`~> 1.0.0`               | 8.0+ | 9.0+ | 9.4   | 4.1
-`~> 1.1.0`               | 8.0+ | 9.0+ | 10.1  | 4.2
-`~> 1.2.0`               | 8.0+ | 9.0+ | 10.2  | 5.0
 
 ## Installation
 
-### Use [CocoaPods](http://guides.cocoapods.org/)
-
-Create a `Podfile` with the following specification and run `pod install`.
-
-```rb
-platform :ios, '8.0'
-use_frameworks!
-
-pod 'QuickTableViewController'
-```
-
-### Use [Carthage](https://github.com/Carthage/Carthage)
-
-Create a `Cartfile` with the following specification and run `carthage update QuickTableViewController`.
-Follow the [instructions](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) to add the framework to your project.
-
-```
-github "bcylin/QuickTableViewController"
-```
-
-### Use Git Submodule
-
-```
-git submodule add -b master git@github.com:bcylin/QuickTableViewController.git Dependencies/QuickTableViewController
-```
-
-* Drag **QuickTableViewController.xcodeproj** to your app project as a subproject.
-* On your application target's **Build Phases** settings tab, add **QuickTableViewController-iOS** to **Target Dependencies**.
+TODO: 
 
 ## License
 
